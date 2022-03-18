@@ -15,7 +15,7 @@ Fig. 1: Server side window
  
 Fig. 2: Client log in window
  
- ![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/78629757/158970859-aa995ab4-373b-4860-8945-83153e63e14b.png)
 
  
 Fig. 3: Client window after logged in
