@@ -5,12 +5,13 @@ I. Program Explaination:
 
 In this project, any Compiler Program is acceptable. However, for personal preference, I have used Eclipse. Depending on Java Swing – a library designed to create a GUI, I have built a fairly simple GUI using the JFrame class. The 3 window form, two of which belong to the client side application are created as such:
  
- ![image](https://user-images.githubusercontent.com/78629757/158968411-9e7cffb6-007a-428e-ade0-2cc08f4ae91f.png)
+
+![image](https://user-images.githubusercontent.com/78629757/158971298-3d832d2c-99fe-4eee-be44-f13f9a1c98c9.png)
 
  
 Fig. 1: Server side window
  
- ![image](https://user-images.githubusercontent.com/78629757/158968462-19e80f9d-c8ce-47a1-a69c-86c6a7281331.png)
+  ![image](https://user-images.githubusercontent.com/78629757/158968411-9e7cffb6-007a-428e-ade0-2cc08f4ae91f.png)
 
  
 Fig. 2: Client log in window
